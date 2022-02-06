@@ -1,6 +1,5 @@
-    _
-.__(.)< (MEOW)
- \___)   
+- ._.
+
 
 <!---
 Kaito4NT/Kaito4NT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
